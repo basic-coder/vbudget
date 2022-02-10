@@ -35,7 +35,7 @@ function App() {
           <Details title="Expense" />
         </Grid>
         <PushToTalkButtonContainer>
-          {/* <PushToTalkButton /> */}
+          <PushToTalkButton />
         </PushToTalkButtonContainer>
       </Grid>
     </div>
